@@ -34,7 +34,7 @@
 
 | 顶会会议                                                         | 截稿日期                                                                                                         | 交流群管理员微信                                                                                                     |上岸群管理员微信
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ | :----------------------------------------------------------- |
-| <a href="https://eccv2022.ecva.net/"><img src="./imgs/cover/01.png"  width="170" /></a> | Deadline: Tue Mar 08 2022 04:59:00 GMT+0800 |<a href=“">  <img src="./imgs/weixin/yongfei.png"  width="80" /></a>  |  |
+| <a href="https://eccv2022.ecva.net/"><img src="./imgs/cover/01.png"  width="170" /></a> | Deadline: Tue Mar 08 2022 04:59:00 GMT+0800 |<img src="./imgs/weixin/yongfei.png"  width="80" />|  |
 
 ## <img src="./imgs/icon/organizer.png" width="25" /> 组织者
 感谢以下同学对本项目进行组织与指导
