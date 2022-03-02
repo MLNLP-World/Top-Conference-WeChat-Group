@@ -1,6 +1,6 @@
 
 <p align="center">
-<h1 align="center"> <img src="./imgs/icon/ai.png" width="30" />AI-conference-deadline</h1>
+<h1 align="center"> <img src="./imgs/icon/ai.png" width="30" />Top-Conference-WeChat-Group</h1>
 </p>
 
 ---
