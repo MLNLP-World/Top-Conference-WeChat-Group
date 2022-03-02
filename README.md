@@ -41,25 +41,17 @@
 
 ## <img src="./imgs/icon/organizer.png" width="25" /> 组织者
 感谢以下同学对本项目进行组织与指导
-
-<a href="https://github.com/Aleafy">  <img src="./imgs/profile/Ye_Fang.png"  width="80" /></a> 
+https://github.com/liucongg
+  
 <a href="https://github.com/kokolerk"><img src="./imgs/profile/JiaQi_Wang.png"  width="80" /></a> 
-<a href="http://xcfeng.net/">  <img src="./imgs/profile/XiaChong_Feng.png"  width="80" /></a> 
-<a href="https://andy-border.github.io/">  <img src="./imgs/profile/jianan.png"  width="80" /></a> 
+<a href="https://github.com/liucongg"><img src="./imgs/profile/logCong.png"  width="80" /></a> 
+<a href="https://yihengshu.github.io">  <img src="./imgs/profile/yiheng.png"  width="80" /></a> 
+<a href="https://scholar.google.com/citations?user=XVYKjDkAAAAJ&hl=en">  <img src="./imgs/profile/yongfei.png"  width="80" /></a> 
 
 ## <img src="./imgs/icon/heart.png" width="25" /> 贡献者
 感谢以下同学对本项目的支持与贡献
 
-<a href="https://github.com/Aleafy">  <img src="./imgs/profile/Ye_Fang.png"  width="80" /></a> 
 <a href="https://github.com/kokolerk"><img src="./imgs/profile/JiaQi_Wang.png"  width="80" /></a> 
-<a href="https://github.com/Khadorstorm"><img src="./imgs/profile/KeCheng_Zhang.png"  width="80" /></a>
-<a href="https://github.com/kinza99">  <img src="./imgs/profile/He_Du.png"  width="80" /></a> 
-<a href="https://github.com/chase6666"><img src="./imgs/profile/Kuo_Tian.png"  width="80" /></a>
-<a href="https://github.com/Atream">  <img src="./imgs/profile/BoXin_Zhang.png"  width="80" /></a>
-<a href="https://github.com/benmagnifico"><img src="./imgs/profile/JingGuang_Li.png"  width="80" /></a>
-<a href="https://github.com/dcy-dhsunabzh"> <img src="./imgs/profile/ChenYang_Ding.png"  width="80" /></a>
-<a href="https://github.com/fghccv"><img src="./imgs/profile/ShiQi_Zhou.png"  width="80" /></a>
-<a href="https://github.com/EcolesYee"> <img src="./imgs/profile/LiZhong_Zhang.png"  width="80" /></a>
-<a href="https://github.com/EcolesYee"> <img src="./imgs/profile/RuiChen_Yi.png"  width="80" /></a>
-<a href="https://github.com/Chigland"> <img src="./imgs/profile/ZhiTao_Wang.png"  width="80" /></a> 
-
+<a href="https://github.com/liucongg"><img src="./imgs/profile/logCong.png"  width="80" /></a> 
+<a href="https://yihengshu.github.io">  <img src="./imgs/profile/yiheng.png"  width="80" /></a> 
+<a href="https://scholar.google.com/citations?user=XVYKjDkAAAAJ&hl=en">  <img src="./imgs/profile/yongfei.png"  width="80" /></a>
