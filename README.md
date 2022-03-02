@@ -39,7 +39,7 @@
 ## <img src="./imgs/icon/organizer.png" width="25" /> 组织者
 感谢以下同学对本项目进行组织
   
-<a href="https://github.com/kokolerk"><img src="./imgs/profile/Jiaqi.png"  width="80" /></a> 
+<a href="https://github.com/kokolerk"><img src="./imgs/profile/jiaqi.png"  width="80" /></a> 
 <a href="https://github.com/liucongg"><img src="./imgs/profile/logCong.png"  width="80" /></a> 
 <a href="https://yihengshu.github.io">  <img src="./imgs/profile/yiheng.png"  width="80" /></a> 
 <a href="https://scholar.google.com/citations?user=XVYKjDkAAAAJ&hl=en">  <img src="./imgs/profile/yongfei.png"  width="80" /></a> 
@@ -47,7 +47,7 @@
 ## <img src="./imgs/icon/heart.png" width="25" /> 贡献者
 感谢以下同学对本项目的支持与贡献
 
-<a href="https://github.com/kokolerk"><img src="./imgs/profile/Jiaqi.png"  width="80" /></a> 
+<a href="https://github.com/kokolerk"><img src="./imgs/profile/jiaqi.png"  width="80" /></a> 
 <a href="https://github.com/liucongg"><img src="./imgs/profile/logCong.png"  width="80" /></a> 
 <a href="https://yihengshu.github.io">  <img src="./imgs/profile/yiheng.png"  width="80" /></a> 
 <a href="https://scholar.google.com/citations?user=XVYKjDkAAAAJ&hl=en">  <img src="./imgs/profile/yongfei.png"  width="80" /></a> 
