@@ -3,9 +3,6 @@
 <h1 align="center"> <img src="./imgs/icon/ai.png" width="30" />《动手学习深度学习》</h1>
 </p>
 
-[动机](./README.md#项目动机),[交流群群规](./README.md#课程简介), [上岸群群规](./README.md#课程资源), [群聊信息](./README.md#笔记),[组织者](./README.md#组织者), [贡献者](./README.md#贡献者)
-
-
 ---
 
 ## <img src="./imgs/icon/motivation.png" width="25" /> 动机
