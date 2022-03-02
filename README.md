@@ -37,7 +37,7 @@
 
 | 顶会会议                                                         | 截稿日期                                                         | 交流群                                                         | 交流群管理员                                                         | 上岸群                                                       |上岸群管理员
 | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| <a href="https://www.bilibili.com/video/BV1if4y147hS?spm_id_from=333.999.0.0">  <img src="./imgs/cover/00.png"  width="170" /></a> | [00-预告](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/notes/00-%E9%A2%84%E5%91%8A.md) | [讲义](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/notes/00-预告.md) |                                                              | <a href="https://github.com/Aleafy">  <img src="./imgs/profile/Ye_Fang.png"  width="80" /></a> |
+| <a href="https://eccv2022.ecva.net/">  <img src="./imgs/cover/01.png"  width="170" /></a> | Deadline: Tue Mar 08 2022 04:59:00 GMT+0800 | <img src="./imgs/cover/01.png"  width="170" /> |                                                              | <a href="https://github.com/Aleafy">  <img src="./imgs/profile/Ye_Fang.png"  width="80" /></a> |
 
 ## <img src="./imgs/icon/organizer.png" width="25" /> 组织者
 感谢以下同学对本项目进行组织与指导
