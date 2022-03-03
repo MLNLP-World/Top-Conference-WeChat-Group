@@ -19,7 +19,7 @@
 
 > 点击对应群管理员的头像，即可获得微信。
 
-> 扫描对应顶会交流群/上岸群管理员微信二维码，备注自己想要加入的顶会+交流/上岸，即可被拉入群聊。
+扫描对应顶会交流群/上岸群管理员微信二维码，备注自己想要加入的顶会+交流/上岸，即可被拉入群聊。
 **请各位同学入群后备注改为姓名+学校+方向**，我们会定期移除没有实名的同学。
 群里交流的一些【注意事项】希望大家一起维护（违反会被移除群聊）：
 - 1、**禁止透露任何个人投稿信息!!!** 包括但不限于投稿ID，投稿文章相关idea方向等
@@ -35,7 +35,7 @@
 
 | 顶会会议                                                         | 截稿日期                                                                                                         | 交流群管理员微信                                                                                                     |上岸群管理员微信                    | QA文档
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| <a href="https://eccv2022.ecva.net/"><img src="./imgs/cover/01.png"  width="170" /></a> | Deadline: Tue Mar 08 2022 04:59:00 GMT+0800 |<a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yongfei.png">  <img src="./imgs/profile/yongfei.png"  width="80" /> 上海科技大学 刘永飞 </a> |  |
+| <a href="https://eccv2022.ecva.net/"><img src="./imgs/cover/01.png"  width="170" /></a> | Deadline: Tue Mar 08 2022 04:59:00 GMT+0800 |<a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yongfei.png"> 上海科技大学 刘永飞  <img src="./imgs/profile/yongfei.png"  width="80" /> </a> |  |
 
 ## <img src="./imgs/icon/organizer.png" width="25" /> 组织者
 感谢以下同学对本项目进行组织
