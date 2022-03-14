@@ -35,8 +35,8 @@
 
 | 顶会会议                                                         | 截稿日期                                                                                                         | 交流群管理员微信                                                                                                     |上岸群管理员微信                    | QA文档
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| <a href="https://cvpr2022.thecvf.com/"><img src="./imgs/cover/cvpr22.png"  width="170" height="40"/></a> | Deadline: Tue Nov 18 2021 11:59:00 Pacific Time |<a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yongfei.png"> 上海科技大学 刘永飞  <div align="center"> <img src="./imgs/profile/yongfei.png" alt="image" width="80" /> </div> </a> |  |
-| <a href="https://eccv2022.ecva.net/"><img src="./imgs/cover/01.png"  width="170" /></a> | Deadline: Tue Mar 08 2022 04:59:00 GMT+0800 |<a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yongfei.png"> 上海科技大学 刘永飞  <div align="center"> <img src="./imgs/profile/yongfei.png" alt="image" width="80" /> </div> </a> |  |
+| <a href="https://cvpr2022.thecvf.com/"><img src="./imgs/cover/cvpr22.png"  width="170" height="40"/></a> | Deadline: Tue Nov 18 2021 11:59:00 Pacific Time |-| <a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yongfei.png"> 上海科技大学 刘永飞  <div align="center"> <img src="./imgs/profile/yongfei.png" alt="image" width="80" /> </div> </a> |
+| <a href="https://eccv2022.ecva.net/"><img src="./imgs/cover/01.png"  width="170" /></a> | Deadline: Mar 08 2022 04:59:00 GMT+0800 |<a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yongfei.png"> 上海科技大学 刘永飞  <div align="center"> <img src="./imgs/profile/yongfei.png" alt="image" width="80" /> </div> </a> |  |
 
 
 ## <img src="./imgs/icon/organizer.png" width="25" /> 组织者
