@@ -44,7 +44,6 @@
 | <a href="https://coling2022.org/"><img src="./imgs/cover/COLING22.png" width="170" /></a>  | Deadline: May 17, 2022 11:59 PM UTC-12:00 | <a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yiheng.jpg "> 南京大学 舒意恒 <div align="center"> <img src="./imgs/profile/yiheng.png" alt="image" width="80"></div> </a> | |<a href="https://docs.qq.com/doc/DVk1CTk11YnFBSkx3?u=5b6b4c72b14f4bf3938c5b94c8673e7f"> 文档</a>| 
 | <a href="https://aaai.org/Conferences/AAAI-23/"><img src="./imgs/cover/AAAI23.png" width="170" /></a>  | Abs Deadline: Aug. 8, 2022 11:59 PM UTC-12:00 | <a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yiheng.jpg "> 南京大学 舒意恒 <div align="center"> <img src="./imgs/profile/yiheng.png" alt="image" width="80"></div> </a> | || 
 
-
 ## <img src="./imgs/icon/organizer.png" width="25" /> 组织者
 感谢以下同学对本项目进行组织
   
