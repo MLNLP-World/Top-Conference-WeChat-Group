@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-labelledby="title">
+  <title id="title">NAACL</title>
+  <rect width="420" height="120" rx="12" fill="#ffffff"/>
+  <path d="M24 24h58v18H44v18h38v36H24V78h38V60H24z" fill="#d74f3f"/>
+  <text x="104" y="80" fill="#252525" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">NAACL</text>
+</svg>

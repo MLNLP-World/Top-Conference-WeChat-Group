@@ -32,16 +32,16 @@ MLNLP 顶会交流群旨在提供高质量的顶会信息同步、投稿经验�
 
 | 会议名称 | 会议年份 | 官网链接 | 投稿截止时间 | rebuttal开始时间 | 结果通知时间 | cr截止时间 | 交流群二维码 | 上岸群二维码 | 管理员二维码 |
 |---|---|---|---|---|---|---|---|---|---|
-| AAAI | 2027 | [AAAI-27](https://aaai.org/conference/aaai/aaai-27/) | 2026-07-28 23:59 UTC-12 | 2026-10-19 | 2026-11-30 | 2026-12-14 | TBD | TBD | [查看二维码](./imgs/weixin/aaai/AAAI-2027-admin.jpg) |
-| ICLR | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | [查看二维码](./imgs/weixin/iclr/ICLR-2027-admin.jpg) |
-| NAACL | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| ACL | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| ICML | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| IJCAI | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| COLING | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| ACM MM | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| EMNLP | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| NeurIPS | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| AAAI<br><img src="./imgs/logo/aaai.jpg" width="90" alt="AAAI logo" /> | 2027 | [AAAI-27](https://aaai.org/conference/aaai/aaai-27/) | 2026-07-28 23:59 UTC-12 | 2026-10-19 | 2026-11-30 | 2026-12-14 | TBD | TBD | [查看二维码](./imgs/weixin/aaai/AAAI-2027-admin.jpg) |
+| ICLR<br><img src="./imgs/logo/iclr.svg" width="110" alt="ICLR logo" /> | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | [查看二维码](./imgs/weixin/iclr/ICLR-2027-admin.jpg) |
+| NAACL<br><img src="./imgs/logo/naacl.svg" width="110" alt="NAACL logo" /> | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| ACL<br><img src="./imgs/logo/acl.png" width="80" alt="ACL logo" /> | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| ICML<br><img src="./imgs/logo/icml.svg" width="110" alt="ICML logo" /> | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| IJCAI<br><img src="./imgs/logo/ijcai.svg" width="110" alt="IJCAI logo" /> | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| COLING<br><img src="./imgs/logo/coling.png" width="110" alt="COLING logo" /> | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| ACM MM<br><img src="./imgs/logo/acm-mm.svg" width="110" alt="ACM Multimedia logo" /> | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| EMNLP<br><img src="./imgs/logo/emnlp.svg" width="110" alt="EMNLP logo" /> | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| NeurIPS<br><img src="./imgs/logo/neurips.svg" width="110" alt="NeurIPS logo" /> | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 
 
 
