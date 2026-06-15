@@ -11,7 +11,7 @@ imgs/weixin/<conference>/
 ```text
 <conference>-<year>-discussion-group-<YYYYMMDD>.<ext>
 <conference>-<year>-accepted-group-<YYYYMMDD>.<ext>
-<conference>-<year>-admin-<YYYYMMDD>.<ext>
+<conference>-<year>-admin.<ext>
 ```
 
 例如：
@@ -19,5 +19,5 @@ imgs/weixin/<conference>/
 ```text
 acl/acl-2027-discussion-group-20270101.png
 acl/acl-2027-accepted-group-20270101.png
-acl/acl-2027-admin-20270101.png
+acl/acl-2027-admin.png
 ```
