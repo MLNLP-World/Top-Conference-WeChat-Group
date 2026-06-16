@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-labelledby="title">
+  <title id="title">ACM Multimedia</title>
+  <rect width="520" height="120" rx="12" fill="#ffffff"/>
+  <circle cx="48" cy="60" r="30" fill="#1b3b5f"/>
+  <circle cx="48" cy="60" r="14" fill="#ffffff"/>
+  <path d="M34 60h28M48 46v28" stroke="#b00020" stroke-width="8" stroke-linecap="round"/>
+  <text x="96" y="76" fill="#1b3b5f" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">ACM MM</text>
+</svg>

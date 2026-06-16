@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 120" role="img" aria-labelledby="title">
+  <title id="title">IJCAI</title>
+  <rect width="500" height="120" rx="12" fill="#123f73"/>
+  <path d="M28 92 62 26l34 66H78L62 59 46 92z" fill="#69a9df"/>
+  <circle cx="62" cy="45" r="10" fill="#244f9e"/>
+  <text x="118" y="80" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">IJCAI</text>
+</svg>
