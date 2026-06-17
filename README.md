@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/stargazers">
-    <img src="https://img.shields.io/github/stars/GoooDte/Top-Conference-WeChat-Group?style=for-the-badge&logo=github&logoColor=white&color=f5c542&labelColor=1e3a5f" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/MLNLP-World/Top-Conference-WeChat-Group?style=for-the-badge&logo=github&logoColor=white&color=f5c542&labelColor=1e3a5f" alt="GitHub Stars">
   </a>
   <a href="https://github.com/MLNLP-World">
     <img src="https://img.shields.io/badge/Community-MLNLP--World-2563eb?style=for-the-badge&logo=github&logoColor=white&labelColor=1e3a5f" alt="MLNLP-World">
@@ -136,5 +136,5 @@ MLNLP 顶会交流群旨在提供高质量的顶会信息同步、投稿经验�
 
 
 <p align="center">
-  <sub>📮 如有问题欢迎提 <a href="https://github.com/GoooDte/Top-Conference-WeChat-Group/issues">Issue</a> 或 <a href="https://github.com/GoooDte/Top-Conference-WeChat-Group/pulls">PR</a> | ⭐ 如果对你有帮助，欢迎 Star</sub>
+  <sub>📮 如有问题欢迎提 <a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/issues">Issue</a> 或 <a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/pulls">PR</a> | ⭐ 如果对你有帮助，欢迎 Star</sub>
 </p>
