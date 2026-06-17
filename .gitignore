@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# OS generated
+Thumbs.db
+ehthumbs.db
